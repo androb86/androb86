@@ -20,6 +20,8 @@
 
 
 ## Connect with me
-<div> 
-<a href="https://linkedin.com/in/robson-araujo-dev/" target="_blank"><img alt="robson-linkedin" align="center" height="40cm" width="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  style="max-width:100%" /></a>
+<div style="display: inline_block"> 
+<a href="https://linkedin.com/in/robson-araujo-dev/" target="_blank"><img alt="robson-linkedin" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://wa.me/+5513991553690" target="_blank"><img alt="robson-whats" align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  
 </div>
