@@ -11,12 +11,13 @@
 </div>
 
 ## My Skill
-<div>
-<img alt="robson-js" height="45cm" width="100cm" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="max-width:100%" />
-<img alt="robson-css" height="45cm" width="45cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="max-width:100%" />
-<img alt="robson-html" height="45cm" width="45cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="max-width:100%" />
-<img alt="robson-typescript" height="45cm" width="100cm" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="max-width:100%"/>
+<div style="display: inline_block"><br>
+<img align="center" alt ="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="center" alt ="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="center" alt ="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="center" alt ="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 </div>
+
 
 ## Connect with me
 <div> 
