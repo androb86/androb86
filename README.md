@@ -6,6 +6,7 @@
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=androb86&show_icons=true&hide=prs,issues,contribs" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact"/>
 </div>
 
 ## My Skill
