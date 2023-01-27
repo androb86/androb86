@@ -12,10 +12,10 @@
 
 ## My Skill
 <div>
-<img alt="robson-js" height="45cm" width="45cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%" />
+<img alt="robson-js" height="45cm" width="100cm" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="max-width:100%" />
 <img alt="robson-css" height="45cm" width="45cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="max-width:100%" />
 <img alt="robson-html" height="45cm" width="45cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="max-width:100%" />
-<img alt="robson-typescript" height="45cm" width="45cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="max-width:100%"/>
+<img alt="robson-typescript" height="45cm" width="100cm" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="max-width:100%"/>
 </div>
 
 ## Connect with me
