@@ -6,8 +6,6 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=androb86&show_icons=true&hide=prs,issues,contribs" />
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=androb86&layout-compact&langs_count=16" />
-  <img height="142cm" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod"/>
 </div>
 
 ## My Skill
