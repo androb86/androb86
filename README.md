@@ -1,7 +1,16 @@
 ### I'am Robson
 
-- I Live in: Brazil: southeast, SP
-- I have bee learning more about Javascript, Css3, Html5 ,Typescript
+
+
+Olá , Tenho estudado Front-End e CiberSecurity, Recentemente concluir o curso de CiberSecurity pela Cisco Academy ministrado pelo SENAI, onde ganhei o conhecimento de descrever algumas tática, as técnicas e os procedimentos usados por Ciber Criminosos e também tecnologias, produtos e procedimentos usados para proteger dos criminosos virtuais, pela mesma Academia também concluir JavaScript em Espanhol. Atualmente estudo pela Descomplica, uma formação de Boot Camp em Parceria com a Nubank em Front End e Possuo certificados de outras intituições como Alura, D.I.O, Becas Santander e Fundação Bradesco, Todos com focos em Tecnologias.
+
+Habilidades Interpessoais:
+
+-Proatividade.
+-Trabalho em Equipe.
+-Gestão de Tempo.
+-Vontande de Aprender.
+
 <hr>
 
 <div>
