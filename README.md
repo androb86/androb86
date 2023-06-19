@@ -1,15 +1,12 @@
-### I'am Robson
+Olá! Meu nome é Robson, e sou um entusiasta do mundo da tecnologia, focado em aprimorar minhas habilidades em Front-End e Cibersegurança. Recentemente, concluí o curso de Cibersegurança pela Cisco Academy, ministrado pelo SENAI. Essa experiência me proporcionou um vasto conhecimento sobre táticas, técnicas e procedimentos utilizados por cibercriminosos, bem como as tecnologias, produtos e procedimentos empregados para proteger indivíduos e organizações desses criminosos virtuais.
 
+Além disso, também aprimorei meus conhecimentos em JavaScript através da Academia Cisco, onde concluí um curso ministrado em espanhol. Busco sempre ampliar meu conhecimento e explorar novas oportunidades de aprendizado. Atualmente, estou estudando Front-End por meio do programa de formação em Boot Camp oferecido pela Descomplica, em parceria com a Nubank.
 
+Ao longo da minha trajetória de estudos, obtive certificados de renomadas instituições como Alura, D.I.O, Becas Santander e Fundação Bradesco, todos com enfoque nas mais recentes tecnologias do mercado. Essas certificações me proporcionaram um sólido embasamento técnico e uma visão abrangente das principais ferramentas e práticas utilizadas no campo da tecnologia.
 
-Olá , Tenho estudado Front-End e CiberSecurity, Recentemente concluir o curso de CiberSecurity pela Cisco Academy ministrado pelo SENAI, onde ganhei o conhecimento de descrever algumas tática, as técnicas e os procedimentos usados por Ciber Criminosos e também tecnologias, produtos e procedimentos usados para proteger dos criminosos virtuais, pela mesma Academia também concluir JavaScript em Espanhol. Atualmente estudo pela Descomplica, uma formação de Boot Camp em Parceria com a Nubank em Front End e Possuo certificados de outras intituições como Alura, D.I.O, Becas Santander e Fundação Bradesco, Todos com focos em Tecnologias.
+Busco constantemente desafios que me permitam aplicar meus conhecimentos adquiridos e desenvolver soluções inovadoras. Tenho paixão por resolver problemas complexos e colaborar em equipe para alcançar resultados excepcionais. Estou sempre aberto a novas oportunidades e ansioso para contribuir com o crescimento e o sucesso de projetos que envolvam tecnologia.
 
-Habilidades Interpessoais:
-
--Proatividade.
--Trabalho em Equipe.
--Gestão de Tempo.
--Vontande de Aprender.
+Se você está em busca de um profissional dedicado, que busca constantemente se atualizar e possui uma ampla base de conhecimento em Front-End e Cibersegurança, estou pronto para colaborar. Vamos juntos explorar as possibilidades e impulsionar o sucesso no mundo da tecnologia.
 
 <hr>
 
